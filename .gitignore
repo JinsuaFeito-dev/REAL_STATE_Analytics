@@ -1,0 +1,25 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore MySQL database configuration file
+config/mysql.yaml
+
+# Ignore logs directory
+logs/
+
+# Ignore model files and directories
+models/model/*
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build and distribution directories
+build/
+dist/
+
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore Python egg metadata
+*.egg-info/
+*.egg
